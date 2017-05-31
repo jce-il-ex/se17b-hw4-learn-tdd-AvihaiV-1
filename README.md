@@ -1,4 +1,4 @@
-Learn Mocha [![Build Status](https://travis-ci.org/jce-il/learn-mocha.png?branch=master)](https://travis-ci.org/jce-il/learn-mocha) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
+Learn Mocha [![Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-AvihaiV-1.svg?branch=master)](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-AvihaiV-1.svg?branch=master) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
 ===========
 
 *A Quick Guide* to **mocha.js**: Test Driven Development (TDD) in **node.js** and other Vsersion Control and Continuous Integration (CI) Tools
@@ -459,7 +459,7 @@ There are other tool that can be chained, see for example the badges in the begi
 
 Update the link below in the README file, to point to **your** (e.g.: ```.com/jce-il-ex/learn-mocha-my-name``` repository status (as well as in the beginning). Note: if your repository is private the travis-ci sufix is .com.
 
-[![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
+[![Travis Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-AvihaiV-1.svg?branch=master)](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-AvihaiV-1.svg?branch=master)
 
 ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
 
